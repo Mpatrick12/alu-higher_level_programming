@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 if _name_ == "_main_":
-    import sys
-
-
 values = sys.argv
 number = len(values)
 i = 1
